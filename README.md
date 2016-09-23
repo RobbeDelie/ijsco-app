@@ -8,9 +8,19 @@ Op de app van de klant komt ook te staan hoelnag het nog duurd eer de ijskar er 
 
 ##technologiën
 
-Xamarin voor Client user applicatie
-  -Google Maps API
-    -Markers
-    -Routes
-Azure voor online server (compatibiliteit met Xamarin is optimaal aangezien deze beide van microsoft zijn)
+* Xamarin voor user applicatie
+  * Ijsco chauffeur
+    * Google Maps API
+      * Markers
+      * Routes
+  * Client
+    * Locatie logging  
+
+* Azure voor online server (compatibiliteit met Xamarin is optimaal aangezien deze beide van microsoft zijn)
+  * Google Maps API
+    * bereken snelste routes naar clients 
+  * database, opslaan van:
+    * users (drivers/clients)
+    * bestelling log
+  
 
