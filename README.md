@@ -1,4 +1,4 @@
-# ijsco-app
+# Ijsco-app
 ijscokar (uber) app
 
 ## beschrijving
