@@ -26,3 +26,6 @@ Op de app van de klant komt ook te staan hoelnag het nog duurd eer de ijskar er 
 
 How to [markdown](https://en.wikipedia.org/wiki/Markdown#Example).
 
+Voor zenhub / boards
+epic's creëren als user stories later issues 
+
